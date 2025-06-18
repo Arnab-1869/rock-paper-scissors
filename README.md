@@ -13,7 +13,7 @@ A modern, interactive Rock Paper Scissors game built with HTML, CSS, and JavaScr
 
 ## 🚀 Live Demo
 
-You can play the game live at: [Add your live demo URL here]
+🎮 **Play the game live**: https://arnab-1869.github.io/rock-paper-scissors/
 
 ## 📋 Game Rules
 
@@ -87,11 +87,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Arnab Dolui**
 
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
+- GitHub: [@Arnab-1869](https://github.com/Arnab-1869)
+- LinkedIn: [linkedin.com/in/arnab-dolui](https://linkedin.com/in/arnab-dolui)
+- Email: arnabdolui54@gmail.com
 
 ## 🙏 Acknowledgments
 
@@ -100,7 +100,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🐛 Bug Reports & Feature Requests
 
-If you encounter any bugs or have feature requests, please [create an issue](https://github.com/yourusername/rock-paper-scissors/issues).
+If you encounter any bugs or have feature requests, please [create an issue](https://github.com/Arnab-1869/rock-paper-scissors/issues).
 
 ## 📊 Browser Support
 
